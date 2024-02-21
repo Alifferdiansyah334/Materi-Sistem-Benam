@@ -1,0 +1,19 @@
+Percobaan 1 LED Cara 1
+1. Kabel jumper dari 12 dan GND ke protobot 
+2. Pasang lampu, pendek GND panjang 12 
+3. Sambungin ke arduino dan laptop, run 
+
+Percobaan 1 LED Cara 2
+1. Kabel GND ke minus, pin 12 ke plus 
+2. dijumper masing" minus dan plus ke lampu 
+3. pasang lampu pendek inus panjang plus 
+
+Percobaan 2 LED Buzzer 
+1. Langkah lampu sama kayak diatas, pakai cara 2 
+2. untuk buzzer yang gnd dari protobot ke pendek, yang panjang ke pin 10 pake lancip tumpul
+3. langsung run 
+
+Percobaan 3 LED BUZZER BUTTON 
+1. 
+2. 
+3. 

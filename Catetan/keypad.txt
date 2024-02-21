@@ -1,0 +1,9 @@
+keypad 
+
+keypad merupakan kumpulan button yang dijadikan matriks, button dibuat sistem perkabeln menjadi matriks 
+
+keypad ada 2 yaitu yang membran dan rigit, kalo rigit itu kumpullan button yang dibuat matriks 4 kali 4
+
+keypad matriks ini memiliki cara kerja yang sama dengan keyboard
+
+install librarry, trus di extract abis itu foldernya di copy ke folder arduino di document 

@@ -1,0 +1,29 @@
+Pertemuan 4 Sistem Benam 
+
+Cara kerja lcd menggunakan cairan, display nya menggunakan oancaran cahaya dari luar 
+LCD kepanjangan dari Liquid Crystal Display 
+Karena tampil menggunakan pantulan cahaya maka tidak dapat dilihat dari rah lurus
+pin lcd dr 1 - 14 (VSS, VCC, VEE PIN 4, R/W, E, PINK 7 - 14)
+modul i2c pada ;cd berfungsi untuk mempermudah antarkoneksi antara data, dia menconvert dr 17 pin jadi 4 pin
+
+pemasangan lcd i2c : Papan ke arduino, di belakangnya tambahin kabel kalo gada pengaman bentuknya hitam kotak 
+sda ke a4
+scl ke a5
+vcc ke 5 volt
+gnd ke gnd
+
+pemasangan lcd biasa : papan ke arduino 
+gnd ke mines 
+vcc ke plus
+vd ke minbes
+rs ke 12 
+rw ke mines
+e ke -11
+d4 ke -5
+d5 ke 4
+d6 ke -3 
+d7 ke 2
+led ke plus
+led ke minus pake resistor
+plus ke 5v
+minus ke gnd 

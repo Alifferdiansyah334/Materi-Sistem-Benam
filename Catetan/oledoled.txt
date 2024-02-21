@@ -1,0 +1,8 @@
+fungsi olet sama kayak lcd, bedanya kalo olet menggunakan piksel dan dapat diatur untuk menampilkan teksnya yang berbeda dengan lcd yang hanya terbatas 16 kesamping dan 2 kebawah 
+set cursor buat nentuin drmana kalimat bakal ditampikan, contoh 0,50 berarti 0 lebar, 50 panjang 
+DHT sensor kelembapan udara 
+
+
++ ke 5v 
+yang tengah pin bebas ke arduino 
+- ke gnd 

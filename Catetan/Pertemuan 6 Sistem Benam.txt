@@ -1,0 +1,41 @@
+Bahas UTS Sistem Benam 20 Oktober 
+
+Sensor rotary encoder yang bentuknya kayak tabung di atas persegi panjang dan sensor 
+
+sensor rotary encoder digunakan untuk mendeteksi gerakan dan dapat berputar 
+
+Rangkaiannya : 
+pin 2, 3, 4 ke clk, dt, sw
+positif ke 5v 
+gnd ke gnd 
+
+sensor ini bisa digabung dengan servo 
+
+lihat pada serial monitor
+direction : 
+ccw berlawanan arah jarum jam 
+cw searah jarum jam 
+
+counter itu nilai yang dihasilkan
+jika direction ccw maka nilai akan turun dari 0 
+jika cw akan naik dari 0 
+
+Sensor NFC 
+sensor ini menggunakan gelombang untuk mendeteksi sebuah objek
+Nfc memiliki 3 mode, hsu dan i2c pake 4 kalo spi yang panjang 
+hsu switch 12 ke kiri 
+i2c switch 1 ke kanan 2 ke kiri, enaknya pake i2c biar pake yang 4 bukan yang panjang 
+spi switch 1 ke kiri 2 ke kanan, switch 1 off 
+buat geser pake jumper 
+
+Sambungan NFC 
+GND KE GND 
+VCC KE 5V
+SDA KE A4
+SCL KE A5
+
+SERIAL MONITOR 115200 BUAT NFC
+
+
+
+
